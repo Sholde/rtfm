@@ -1,0 +1,9 @@
+#+TITLE: RTFM
+#+AUTHOR: Sholde
+#+DATE: October 2021
+
+* Usage
+
+  #+BEGIN_SRC bash
+$ ./main.c
+  #+END_SRC
